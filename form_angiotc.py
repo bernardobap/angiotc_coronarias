@@ -9,7 +9,7 @@ import os
 root = Tk()
 root.title("Formulario Angiotomografia de Coronarias")
 
-medicos = ('Bernardo', 'Carlos', 'Luciana', 'Marcio', 'Roberto', 'Thamara')
+medicos = ('Doc1', 'Doc2', 'Doc3', 'Doc4', 'Doc5', 'Doc6')
 etnias = ('Branco', 'Negro', 'Hispanico', 'Chines')
 
 # Variável do checkbox para controle de entrada no campo ec (escore de cálcio)
@@ -286,7 +286,7 @@ def submeter():
                 'altura',
                 'sexo',
                 'origem',
-		        'indicacao',
+		'indicacao',
                 'fr_has',
                 'fr_dlp',
                 'fr_tbg',
