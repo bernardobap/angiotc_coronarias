@@ -1,2 +1,2 @@
 # Coronary CT form
-Python/tkinter program to collect relevant patient info (risk factors and coronary ct findings) in my practice.
+Programa em Python/tkinter para coletar dados clinicos/epidemiologicos dos pacientes submetidos à angiotc de coronárias.
